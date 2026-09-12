@@ -30,7 +30,6 @@ $$b = \bar{y} - m\bar{X}$$
 ## Kullanılan Teknolojiler
 
 * **Python:** Saf (pure) Python veri yapıları ve döngüler.
-* **Math (Standart Kütüphane):** Ortalamalar ve toplam matris hesaplamaları için.
 
 ---
 
