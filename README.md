@@ -23,8 +23,6 @@ $$m = \frac{\sum (X - \bar{X})(y - \bar{y})}{\sum (X - \bar{X})^2}$$
 
 $$b = \bar{y} - m\bar{X}$$
 
-*(Burada $\bar{X}$ ve $\bar{y}$, sırasıyla $X$ ve $y$ değişkenlerinin ortalama değerleridir.)*
-
 ---
 
 ## Kullanılan Teknolojiler
